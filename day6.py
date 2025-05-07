@@ -42,5 +42,8 @@
 # str1 = "Python is a Interpreted Language"
 # print(str1.swapcase())
 
-str1 = "the lucifier morning star"
-print(str1.title())
+# str1 = "the lucifier morning star"
+# print(str1.title())
+
+hello="neeraj"
+print(hello.split(""))
